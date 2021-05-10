@@ -17,7 +17,7 @@
 ![Repos Badge](https://badges.pufler.dev/repos/SuperMido)
 ![Commits Badge](https://badges.pufler.dev/commits/monthly/SuperMido)
 
-👇 There are .
+👇 I am...
 
 ```
 I'm a final year student pursuing Bachelors's in Information Technology 🎓 from University of Greenwich (VietNam) 🏛.
@@ -41,9 +41,9 @@ I'm currently into Web Development 🕸️ and working on my Data Structures and
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SuperMido&theme=radical) ![Mido's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuperMido&show_icons=true&theme=radical)
 
-# Check out the Teddy team 😎
+### Check out the Teddy team 😎
 ![Contributors Display](https://badges.pufler.dev/contributors/SuperMido/Megatron?size=50&padding=5&bots=true)
 
-## 🏆 GitHub Trophies
+### 🏆 GitHub Trophies
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=SuperMido&theme=nord&column=7)
