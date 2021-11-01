@@ -26,7 +26,7 @@ I'm currently into Web Development 🕸️ and working on my Data Structures and
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Talking about Personal Stuffs...
 
-- 🛠 &nbsp; I’m currently working with ASP.NET Core, Nodejs, Express, React, <br /> Graphql, Mongodb, Javascript, etc.
+- 🛠 &nbsp; I’m currently working with ASP.NET Core, Nodejs, <br /> Graphql, Mongodb, Javascript, etc.
 - 🚀 &nbsp; I’m currently learning Full Stack Development.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/SuperMido).
 - 📫 &nbsp; How to reach me: huytqgcd18457@fpt.edu.vn
